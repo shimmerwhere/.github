@@ -25,6 +25,7 @@ Built with:
 - **[echoura](https://github.com/shimmerwhere/echoura)** — A university for cats, where every lesson leaves an echo *(planned)*
 - **[neko-chartered](https://github.com/shimmerwhere/neko-chartered)** — The financial system of Shimmerwhere *(planned)*
 - **[velvet-bazaar](https://github.com/shimmerwhere/velvet-bazaar)** — A marketplace for unrealized dreams *(concept)*
+  
 and many more to come!
 
 ### Infrastructure
