@@ -61,7 +61,7 @@ Until then, we're building quietly — one cat, one line of code, one frame of f
 
 ## Connect
 
-Created by [iris @ hazesync](https://github.com/hazesync)
+Created by [z @ LAVENDERISH](https://github.com/)
 
 *made with insomnia + lavender tea*
 
