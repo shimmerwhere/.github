@@ -1,8 +1,6 @@
 # Shimmerwhere
 
-*where cats dream in iridescent light*
-
----
+> *where cats dream in iridescent light*
 
 ## What is Shimmerwhere?
 
@@ -61,7 +59,7 @@ Until then, we're building quietly — one cat, one line of code, one frame of f
 
 ## Connect
 
-Created by [z @ LAVENDERISH](https://github.com/)
+Created by [z @ SLOWSYNCED](https://github.com/SLOWSYNCED)
 
 *made with insomnia + lavender tea*
 
