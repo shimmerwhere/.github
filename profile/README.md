@@ -22,7 +22,6 @@ Built with:
 - **[souveneko](https://github.com/shimmerwhere/souveneko)** — Social media for collecting memories *(in development)*
 - **[echoura](https://github.com/shimmerwhere/echoura)** — A university for cats, where every lesson leaves an echo *(planned)*
 - **[neko-chartered](https://github.com/shimmerwhere/neko-chartered)** — The financial system of Shimmerwhere *(planned)*
-- **[velvet-bazaar](https://github.com/shimmerwhere/velvet-bazaar)** — A marketplace for unrealized dreams *(concept)*
   
 and many more to come!
 
@@ -59,9 +58,7 @@ Until then, we're building quietly — one cat, one line of code, one frame of f
 
 ## Connect
 
-Created by [z @ SLOWSYNCED](https://github.com/SLOWSYNCED)
-
-*made with insomnia + lavender tea*
+Created by [z @ slowsynced](https://github.com/slowsynced)
 
 ---
 
