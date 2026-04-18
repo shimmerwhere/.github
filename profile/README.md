@@ -58,7 +58,7 @@ Until then, we're building quietly — one cat, one line of code, one frame of f
 
 ## Connect
 
-Created by [z @ slowsynced](https://github.com/slowsynced)
+Created by [z](https://github.com/slowchaser)
 
 ---
 
